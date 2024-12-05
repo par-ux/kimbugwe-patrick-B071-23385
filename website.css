@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav-bar{
+    border: solid gray;
+    width: 100%;
+    height: 40px;
+    background-color: gray;
+}
+.ol{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+
+    
+}.li{
+    color:white;
+    
+}
+.h1{
+    margin-left: 200px;
+    margin-top: 30px;
+    color: red
+    
+}
+.shoes{
+margin-left: ;
+}
+.bags{
+margin-left: 80%;
+color: yellowgreen;
+}
+.shoe{
+    width: 30px;
+    height: 30px;
+}
+.button{
+    background-color: orange;
+    color: white;
+    width: 20%;
+    height: 30px;
+    border-radius: 10px;
+    
+}
+.submit{
+    width: 20%;
+    height: 50px;
+    background-color: brown;
+    border-radius: 10px;
+}
+.call{
+    color: brown;
+}
+.div{
+    background-color: bisque;
+}
